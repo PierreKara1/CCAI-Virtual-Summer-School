@@ -1,1 +1,5 @@
 CCAI/
+*.nc
+*/models/
+*/NZ_domain/
+*/code_carbon/
