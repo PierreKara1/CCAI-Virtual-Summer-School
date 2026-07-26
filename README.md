@@ -1,1 +1,0 @@
-# CCAI Virtual Summer School
