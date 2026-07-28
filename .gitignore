@@ -3,3 +3,6 @@ CCAI/
 */models/
 */NZ_domain/
 */code_carbon/
+*.tif*
+*.gpkg
+*.ckpt
