@@ -1,0 +1,3 @@
+[submodule "camels-hydrological-modeling"]
+	path = camels-hydrological-modeling
+	url = git@github.com:PierreKara1/camels-hydrological-modeling.git

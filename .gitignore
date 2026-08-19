@@ -6,3 +6,4 @@ CCAI/
 *.tif*
 *.gpkg
 *.ckpt
+*.pyc
